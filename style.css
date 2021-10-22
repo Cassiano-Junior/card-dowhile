@@ -18,7 +18,8 @@ body {
 }
 main {
   background: url(images/Mobile.png);
-  width: 375px;
+  width: 100vh;
+  max-width: 360px;
   height: 100vh;
 }
 .container {
